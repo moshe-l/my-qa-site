@@ -1,0 +1,29 @@
+.wrap_form{
+    margin-top: 15%;
+}
+div{
+  
+    text-align: center;
+}
+
+p{    
+    font-size: 35px;
+}
+
+#errorMsg{
+    display: none;
+    color: red;
+    text-decoration: underline;
+}
+#errorMessage{
+    display: none;
+    color: white;
+    width: 220px;
+    background-color: red;
+}
+.errorFilde{
+    border : 1px solid red;
+    border-radius: 7px;
+    height: 25px;
+    margin-bottom: 5px;
+}
